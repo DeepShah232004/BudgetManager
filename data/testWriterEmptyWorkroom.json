@@ -1,0 +1,14 @@
+{
+    "BudgetMap": [],
+    "CategoryList": [
+        {"name": "Food"},
+        {"name": "Entertainment"},
+        {"name": "Travel"},
+        {"name": "Grocery"},
+        {"name": "Utilities"},
+        {"name": "Miscellaneous"}
+    ],
+    "ExpenseMap": [],
+    "IncomeMap": [],
+    "CategoryMap": []
+}

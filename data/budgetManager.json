@@ -1,0 +1,25 @@
+{
+    "BudgetMap": [{"2023": [{"11": {
+        "remainingBudget": 8766,
+        "budget": 10000
+    }}]}],
+    "CategoryList": [
+        {"name": "Food"},
+        {"name": "Entertainment"},
+        {"name": "Travel"},
+        {"name": "Grocery"},
+        {"name": "Utilities"},
+        {"name": "Miscellaneous"}
+    ],
+    "ExpenseMap": [{"2023": [{"11": [{
+        "date": "22-11-2023",
+        "amount": 1234,
+        "category": "Food"
+    }]}]}],
+    "IncomeMap": [],
+    "CategoryMap": [{"2023": [{"11": [{"Food": [{
+        "date": "22-11-2023",
+        "amount": 1234,
+        "category": "Food"
+    }]}]}]}]
+}

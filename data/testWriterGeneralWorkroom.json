@@ -1,0 +1,74 @@
+{
+    "BudgetMap": [
+        {"2004": [
+            {"11": {
+                "remainingBudget": 10000,
+                "budget": 10000
+            }},
+            {"12": {
+                "remainingBudget": 10000,
+                "budget": 10000
+            }}
+        ]},
+        {"2005": [{"11": {
+            "remainingBudget": 10000,
+            "budget": 10000
+        }}]}
+    ],
+    "CategoryList": [
+        {"name": "Food"},
+        {"name": "Entertainment"},
+        {"name": "Travel"},
+        {"name": "Grocery"},
+        {"name": "Utilities"},
+        {"name": "Miscellaneous"}
+    ],
+    "ExpenseMap": [
+        {"2004": [{"11": [
+            {
+                "date": "23-11-2004",
+                "amount": 1000,
+                "category": "Food"
+            },
+            {
+                "date": "24-11-2004",
+                "amount": 2000,
+                "category": "School"
+            }
+        ]}]},
+        {"2005": [{"11": [{
+            "date": "23-11-2005",
+            "amount": 2000,
+            "category": "Food"
+        }]}]}
+    ],
+    "IncomeMap": [
+        {"2004": [{"11": [{
+            "date": "24-11-2004",
+            "amount": 1000
+        }]}]},
+        {"2005": [{"11": [{
+            "date": "23-11-2005",
+            "amount": 4000
+        }]}]}
+    ],
+    "CategoryMap": [
+        {"2004": [{"11": [
+            {"School": [{
+                "date": "24-11-2004",
+                "amount": 2000,
+                "category": "School"
+            }]},
+            {"Food": [{
+                "date": "23-11-2004",
+                "amount": 1000,
+                "category": "Food"
+            }]}
+        ]}]},
+        {"2005": [{"11": [{"Food": [{
+            "date": "23-11-2005",
+            "amount": 2000,
+            "category": "Food"
+        }]}]}]}
+    ]
+}

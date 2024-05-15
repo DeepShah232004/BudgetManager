@@ -1,0 +1,25 @@
+{
+    "BudgetMap": [{"2005": [{"3": {
+        "remainingBudget": 9990,
+        "budget": 10000
+    }}]}],
+    "CategoryList": [hgvbcjhgvcbbfhbb
+        {"name": "Food"},
+        {"name": "Entertainment"},
+        {"name": "Travel"},
+        {"name": "Grocery"},
+        {"name": "Utilities"},
+        {"name": "Miscellaneous"}
+    ],
+    "ExpenseMap": [{"2005": [{"3": [{
+        "date": "30-03-2005",
+        "amount": 10,
+        "category": "Miscellaneous"
+    }]}]}],
+    "IncomeMap": [],
+    "CategoryMap": [{"2005": [{"3": [{"Miscellaneous": [{
+        "date": "30-03-2005",
+        "amount": 10,
+        "category": "Miscellaneous"
+    }]}]}]}]
+}

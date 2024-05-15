@@ -1,0 +1,41 @@
+{
+    "BudgetMap": [{"2023": [
+        {"1": {
+            "remainingBudget": 10000,
+            "budget": 10000
+        }},
+        {"12": {
+            "remainingBudget": 4877,
+            "budget": 5000
+        }}
+    ]}],
+    "CategoryList": [
+        {"name": "Food"},
+        {"name": "Entertainment"},
+        {"name": "Travel"},
+        {"name": "Grocery"},
+        {"name": "Utilities"},
+        {"name": "Miscellaneous"},
+        {"name": "School"}
+    ],
+    "ExpenseMap": [{"2023": [
+        {"1": []},
+        {"12": [{
+            "date": "01-12-2023",
+            "amount": 123,
+            "category": "Food"
+        }]}
+    ]}],
+    "IncomeMap": [{"2023": [
+        {"1": []},
+        {"12": [{
+            "date": "01-12-2023",
+            "amount": 344
+        }]}
+    ]}],
+    "CategoryMap": [{"2023": [{"12": [{"Food": [{
+        "date": "01-12-2023",
+        "amount": 123,
+        "category": "Food"
+    }]}]}]}]
+}
